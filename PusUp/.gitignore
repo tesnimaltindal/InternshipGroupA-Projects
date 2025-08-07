@@ -1,0 +1,26 @@
+# Sanal ortam klasörleri
+venv/
+env/
+
+# Python derleme dosyaları ve cache
+__pycache__/
+*.pyc
+
+# IDE dosyaları (Visual Studio Code, PyCharm vb.)
+.vscode/
+.idea/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Muhtemel tüm büyük boyutlu dosyalar
+*.mp4
+*.mov
+*.avi
+*.zip
+*.rar
+*.7z
+*.gz
+*.tar
+*.log
